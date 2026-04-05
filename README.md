@@ -3,6 +3,19 @@ Leave Management System (FastAPI + Streamlit + Postgresql)
 
 A full-stack Leave Management System built using FastAPI (backend), Streamlit (frontend) and Postgresql(Database). This application allows employees to apply for leave and administrators to manage, approve, or reject requests efficiently.
 
+#### Problem Statement
+
+In many organizations, leave management is still handled manually using spreadsheets or emails.
+
+This creates several problems:
+
+No proper tracking of leave requests
+High chances of errors or overlapping leaves
+Lack of transparency between employees and management
+Time-consuming approval process
+
+So, the goal of my project is to automate the leave management process with proper validation, tracking, and an easy-to-use interface.
+
 # 🚀 Features
 
 #### 👨‍💼 Employee Module
