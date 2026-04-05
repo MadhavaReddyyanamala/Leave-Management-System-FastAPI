@@ -27,14 +27,14 @@ Manage pending leave applications
 
 # 🏗️ Tech Stack
 #### Backend
-FastAPI
-SQLAlchemy ORM
-PostgreSQL
-Pydantic (data validation)
+FastAPI, 
+SQLAlchemy ORM, 
+PostgreSQL, 
+Pydantic (data validation).
 #### Frontend
-Streamlit
-Requests
-Pandas
+Streamlit, 
+Requests, 
+Pandas.
 
 # WorkFlow / Architecture
 <img width="425" height="831" alt="image" src="https://github.com/user-attachments/assets/ce63f0e2-4558-46cc-bf0d-ab89a48462c9" />
