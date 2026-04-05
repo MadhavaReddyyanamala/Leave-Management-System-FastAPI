@@ -7,7 +7,7 @@ A full-stack Leave Management System built using FastAPI (backend), Streamlit (f
 
 #### 👨‍💼 Employee Module
 
-Register new employees
+Register new employees\n
 Apply for leave (Sick, Casual, Annual)
 View personal leave history
 Validation for:
