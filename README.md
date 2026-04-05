@@ -42,3 +42,25 @@ Pandas.
 # 📂 Project Structure
 <img width="689" height="464" alt="image" src="https://github.com/user-attachments/assets/16070e5f-cd17-4d12-b80c-efd5a3dab178" />
 
+# 🔌 API Endpoints
+##### Employee
+
+POST /employees/ → Add employee
+
+GET /employees/ → List employees
+
+##### Leave
+
+POST /leaves/ → Apply leave
+
+GET /leaves/ → Get all leaves
+
+GET /employees/{id}/leaves → Employee leaves
+
+PUT /leaves/{id} → Update leave
+
+DELETE /leaves/{id} → Delete leave
+
+PUT /leaves/{id}/approve → Approve
+
+PUT /leaves/{id}/reject → Reject
